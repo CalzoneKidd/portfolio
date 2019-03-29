@@ -1,55 +1,61 @@
 .row{
   width: 100%;
   height: 500px;
-  background-color: #E87E51
+  background-color: #58FFF6
 
 }
 
 .col{
   height: 100%;
   width: 47%;
-  border: 2px solid #white;
   display: inline-block;
   float: left;
   margin: 10px;
-
+}
+  #box1{
+    background-image: url(https://i.ytimg.com/vi/vRQQ0HfOip0/hqdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 2px solid #Black;
 }
 
 body{
-  background-color: #FF0043;
+  background-color: #56FFAA;
 }
 #div1{
-  text-emphasis: #E87E51;
-  text-indent: 25%;
+  height: 100px;
   text-shadow: 100%;
+  background-image: url(https://cdn.shopify.com/s/files/1/0761/7621/products/holographic_turquoise_1024x1024.jpg?v=1496832337);
+
 
 }
 #box1{
   background-image: url(https://i.ytimg.com/vi/vRQQ0HfOip0/hqdefault.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size:cover;
 }
 #box3{
   background-image: url(https://ichef.bbci.co.uk/news/660/cpsprodpb/40DE/production/_105260661_gettyimages-578257624.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 #box4{
   background-image: url(https://www.dogbreedplus.com/dog_breeds/images/bogle.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 #box2{
-  background-color: #E87E51;
-  text-indent: 25%;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #4EE8BD;
 
 
 }
-#box2 {
-  text-indent: 25%;
-}
+
 #box6 {
-  text-indent: 25%;
+  padding-left: 20px;
+  padding-right: 20px;
+
 }
 #box5{
 
